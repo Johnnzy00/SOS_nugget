@@ -24,8 +24,8 @@ Charges over USB-C
 # Project Roadmap
 - [ ] Build a working breadboard prototype
 
-- [] Write and test the full firmware
+- [ ] Write and test the full firmware
 
-- [ ] Finish PCB
+- [x] Finish PCB
 
 - [ ] Design and print the case
