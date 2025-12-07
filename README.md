@@ -22,10 +22,10 @@ Runs from a rechargeable Li-ion battery
 Charges over USB-C
 
 # Project Roadmap
-[ ] Build a working breadboard prototype
+- [ ] Build a working breadboard prototype
 
-[] Write and test the full firmware
+- [] Write and test the full firmware
 
-[ ] Finish PCB
+- [ ] Finish PCB
 
-[ ] Design and print the case
+- [ ] Design and print the case
