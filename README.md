@@ -9,17 +9,6 @@ SIM800L (GSM communication)
 
 NEO-6M GPS (location tracking)
 
-Power is handled using a TP4056 charger, LM2596 step-down regulator, and MT3608 step-up regulator to ensure stable voltages for all components.
-
-
-# What This Device Does
-Reads GPS coordinates
-
-Sends them via SMS using the SIM800L
-
-Runs from a rechargeable Li-ion battery
-
-Charges over USB-C
 
 # PCB
 ![PCB1](/PCB/pcb1.JPG)
