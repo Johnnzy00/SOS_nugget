@@ -21,28 +21,11 @@ Runs from a rechargeable Li-ion battery
 
 Charges over USB-C
 
-# Main Components
-Arduino Nano
-
-SIM800L GSM Module
-
-NEO-6M GPS Module
-
-TP4056 Charger Board
-
-LM2596 Step-Down Regulator
-
-MT3608 Step-Up Booster
-
-Tactile button
-
-Support capacitors
-
 # Project Roadmap
-Build a working breadboard prototype
+[] Build a working breadboard prototype
 
-Write and test the full firmware
+[] Write and test the full firmware
 
-Finish and order the PCB
+[] Finish PCB
 
-Design and print the case
+[] Design and print the case
