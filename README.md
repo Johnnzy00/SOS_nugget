@@ -11,11 +11,11 @@ NEO-6M GPS (location tracking)
 
 
 # PCB
-![PCB1](/PCB/pcb1.JPG)
+![PCB sheet](/PCB/pcbsheet.JPG)
 
-![PCB2](/PCB/pcb2.JPG)
+![PCB 3d render top](/PCB/3dTOP.JPG)
 
-![PCB3](/PCB/pcb3.JPG)
+![PCB 3d render bottom](/PCB/3dBot.JPG)
 
 # To do list
 - [ ] Build a working breadboard prototype
